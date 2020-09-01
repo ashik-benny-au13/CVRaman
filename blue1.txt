@@ -1,4 +1,5 @@
 1.this is for blue2 commit
+<<<<<<< HEAD
 2.this is for blue3 commit
 3.tis is for blue4 commit
 <<<<<<< HEAD
@@ -7,3 +8,7 @@
 4.his is for green1 commit
 5.this is for green2 commit
 >>>>>>> green
+=======
+2.this is for purple1 commit
+3.this is for purple2 commit
+>>>>>>> purple
